@@ -1,0 +1,23 @@
+ID,Nombre,Correo,Contrasena,FechaRegistro
+1,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$UjdqHQWiseUsbDzWnptbtuske7i0z4D1LrtdHw4zLYlguKcnZCA/u,Otros,Activo,01-09-2025
+2,Empresa Alfa,1001,Juan Pérez,3001111111,juan.alfa@correo.com,clave101,Transporte,Activo,01-09-2025
+3,Servicios Beta,1002,María Gómez,3002222222,maria.beta@correo.com,clave102,Construcción,Activo,01-09-2025
+4,Tech Gamma,1003,Carlos Ruiz,3003333333,carlos.gamma@correo.com,clave103,Tecnología,Activo,01-09-2025
+5,Logística Delta,1004,Ana Torres,3004444444,ana.delta@correo.com,clave104,Logística,Activo,01-09-2025
+6,Consultores Epsilon,1005,Pedro Ramírez,3005555555,pedro.epsilon@correo.com,clave105,Consultoría,Activo,01-09-2025
+7,Distribuidora Zeta,1006,Laura Sánchez,3006666666,laura.zeta@correo.com,clave106,Distribución,Activo,01-09-2025
+8,Constructora Omega,1007,Diego López,3007777777,diego.omega@correo.com,clave107,Construcción,Inactivo,01-09-2025
+9,Agro Sigma,1008,Marta Castro,3008888888,marta.sigma@correo.com,clave108,Agro,Activo,01-09-2025
+10,Finanzas Kappa,1009,Ricardo Herrera,3009999999,ricardo.kappa@correo.com,clave109,Finanzas,Activo,01-09-2025
+11,Marketing Lambda,1010,Sofía Jiménez,3010000000,sofia.lambda@correo.com,clave110,Marketing,Activo,01-09-2025
+12,Servicios Mu,1011,Andrés Vargas,3011111111,andres.mu@correo.com,clave111,Servicios,Activo,01-09-2025
+13,Transportes Nu,1012,Paula Martínez,3012222222,paula.nu@correo.com,clave112,Transporte,Activo,01-09-2025
+14,Diseños Xi,1013,Hugo Ortiz,3013333333,hugo.xi@correo.com,clave113,Diseño,Activo,01-09-2025
+15,Consultora Omicron,1014,Elena Díaz,3014444444,elena.omicron@correo.com,clave114,Consultoría,Inactivo,01-09-2025
+16,Comercial Pi,1015,Luis Fernández,3015555555,luis.pi@correo.com,clave115,Comercio,Activo,01-09-2025
+17,Energía Rho,1016,Camila Rojas,3016666666,camila.rho@correo.com,clave116,Energía,Activo,01-09-2025
+18,Educación Tau,1017,Jorge Morales,3017777777,jorge.tau@correo.com,clave117,Educación,Activo,01-09-2025
+19,Salud Upsilon,1018,Natalia Méndez,3018888888,natalia.upsilon@correo.com,clave118,Salud,Activo,01-09-2025
+20,Deportes Phi,1019,Gabriel Silva,3019999999,gabriel.phi@correo.com,clave119,Deportes,Activo,01-09-2025
+21,Turismo Chi,1020,Valentina Peña,3020000000,valentina.chi@correo.com,clave120,Turismo,Activo,01-09-2025
+22,Evolution,96857412,Jhonatan Lopez,3219876541,jhonlo@correo.com,$2a$10$aYymqVCjRF7m6uVLwZpumunXDtMe8tF3fLadocLtEIC.cTG9Z3Zl6,Otros,Pendiente de Aprobación,01-09-2025

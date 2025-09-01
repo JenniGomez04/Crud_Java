@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Iniciar Sesión</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Iconos -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Estilo personalizado -->
+    <link th:href="@{/css/login.css}" rel="stylesheet">
+</head>
+<body>
+
+<div class="container-login">
+    <!-- Lado izquierdo con imagen -->
+    <div class="image-section">
+        <img th:src="@{/images/login-image.jpg}" alt="Login ilustración" class="img-fluid">
+    </div>
+
+    <!-- Lado derecho con formulario -->
+    <div class="form-section">
+        <h3 class="login-title">Inicio de Sesión</h3>
+
+        <form th:action="@{/login}" method="post">
+            <div class="mb-3 icon-input">
+                <i class="bi bi-envelope-fill"></i>
+                <input type="email" name="username" class="form-control" placeholder="Correo Electrónico" required>
+            </div>
+            <div class="mb-3 icon-input">
+                <i class="bi bi-lock-fill"></i>
+                <input type="password" name="password" class="form-control" placeholder="Contraseña" required>
+            </div>
+            <button type="submit" class="btn btn-login w-100">Iniciar Sesión</button>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
+
+

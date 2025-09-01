@@ -1,0 +1,74 @@
+/* Fondo */
+body {
+    background: url('/images/fondo-login.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #0E1550;
+}
+
+
+/* Otros */
+h2 {
+    font-family: cursive;
+    color: #0E1550;
+    font-weight: bold;
+    margin-top: -10px;    /* Sube el título */
+}
+
+/* Tabla */
+.table-dark {
+    background-color: #000000; /* Más oscuro y profesional */
+    color: white;
+}
+
+--bs-table-bg{
+    background-color: #000000;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    font-size: 14px;
+    font-family: cursive;
+}
+
+/* Columnas específicas */
+th:nth-child(1), td:nth-child(1) { max-width: 40px; }         /* ID */
+th:nth-child(3), td:nth-child(3) { max-width: 100px; }        /* NIT */
+th:nth-child(5), td:nth-child(5) { max-width: 100px; }        /* Teléfono */
+th:nth-child(6), td:nth-child(6) { max-width: 150px; }        /* Correo */
+th:nth-child(8), td:nth-child(8) { max-width: 120px; }        /* Estado */
+th:nth-child(9), td:nth-child(9) { max-width: 90px; }         /* Fecha */
+th:nth-child(10), td:nth-child(10) { max-width: 150px; }      /* Acciones */
+
+/* Botones */
+.btn-success {
+    background-color: #c059fe!important;  /* nuevo proveedor */
+    border-color: #28a745 !important;
+}
+
+.btn-outline-danger {
+    border-color: #dc3545 !important;
+    color: #dc3545 !important;
+}
+
+.btn-outline-danger:hover {
+    background-color: #dc3545 !important;
+    color: white !important;
+}
+
+.btn-sm {
+    padding: 3px 6px;
+    font-size: 14px;
+}
+
+/* Tarjeta */
+.card {
+    border-radius: 12px;
+}
+
+
+
+/* nuevo proveedor formulario: */
+
+.btn-secondary, .btn-primary {
+    background-color: #af29d3;
+}

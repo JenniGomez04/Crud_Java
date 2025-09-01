@@ -1,0 +1,58 @@
+ID,Nombre,Correo,Contrasena,FechaRegistro
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+10,Comercializadora Andina,901112233-0,Felipe Morales,3209988776,f.morales@andina.com,$2a$10$29Kmb8SK.hpxXvJJYTDlKOlnuGTaKC9NIYIPNPuktHfhndH0IXD6u,Logística y Distribución,Pendiente de Aprobación,06-07-2025
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+10,Comercializadora Andina,901112233-0,Felipe Morales,3209988776,f.morales@andina.com,$2a$10$29Kmb8SK.hpxXvJJYTDlKOlnuGTaKC9NIYIPNPuktHfhndH0IXD6u,Logística y Distribución,Pendiente de Aprobación,06-07-2025
+11,ElectroRedes Ltda,900443322-5,Diana Rincón,3153344552,diana.rincon@eredes.com,$2a$10$Y7DJpAjlx6kZCH5I.NSHr.i32lbI7Tf8U9Kci7Vhke9ob.R6RyWue,Telecomunicaciones,Activo,06-07-2025
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+10,Comercializadora Andina,901112233-0,Felipe Morales,3209988776,f.morales@andina.com,$2a$10$29Kmb8SK.hpxXvJJYTDlKOlnuGTaKC9NIYIPNPuktHfhndH0IXD6u,Logística y Distribución,Pendiente de Aprobación,06-07-2025
+11,ElectroRedes Ltda,900443322-5,Diana Rincón,3153344552,diana.rincon@eredes.com,$2a$10$Y7DJpAjlx6kZCH5I.NSHr.i32lbI7Tf8U9Kci7Vhke9ob.R6RyWue,Telecomunicaciones,Activo,06-07-2025
+12,Grupo Empresarial Delta,903456789-4,Camilo Vargas,3178877665,cvargas@grupo-delta.co,$2a$10$GAugpOUaAC3vQEB0EoEBLuydVJ8WcrbBZ9McdFSBnC67MRfqKtKoq,Consultoría,Bloqueado,06-07-2025
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+10,Comercializadora Andina,901112233-0,Felipe Morales,3209988776,f.morales@andina.com,$2a$10$29Kmb8SK.hpxXvJJYTDlKOlnuGTaKC9NIYIPNPuktHfhndH0IXD6u,Logística y Distribución,Pendiente de Aprobación,06-07-2025
+11,ElectroRedes Ltda,900443322-5,Diana Rincón,3153344552,diana.rincon@eredes.com,$2a$10$Y7DJpAjlx6kZCH5I.NSHr.i32lbI7Tf8U9Kci7Vhke9ob.R6RyWue,Telecomunicaciones,Activo,06-07-2025
+12,Grupo Empresarial Delta,903456789-4,Camilo Vargas,3178877665,cvargas@grupo-delta.co,$2a$10$GAugpOUaAC3vQEB0EoEBLuydVJ8WcrbBZ9McdFSBnC67MRfqKtKoq,Consultoría,Bloqueado,06-07-2025
+13,Logística Express S.A.S.,901998877-6,Natalia Suárez,3181122334,natalia@logiexpress.com,$2a$10$Sc6pQKYnUtRoezKe6.kZPO8gBJaSaVGQXefIFi55kq6EjS3HyiSSy,Logística y Distribución,Activo,06-07-2025
+1,Soluciones Integrales S.A.S.,900123456-1,Laura Martinez,3104567890,laura.martinez@solinsa.com,00f6188bcfad56ba8b1264f37ca9559a27050b1e42c452a3fcf87d55e8bffa09,Marketing y Publicidad,Activo,19-06-2025
+2,TecnoMundo LTDA,800987654-3,Carlos Gómez,3009876543,carlosg@tecnomundo.co,0ff07273930f1f480efd3986e2937d31e62e6d29649816ecfa48a7bb8c82dcbc,Mantenimiento de Equipo,Pendiente de Aprobación,21-06-2025
+3,Inversiones El Roble S.A.,901234567-8,Andrea Rodríguez,3112233445,andrea@elroble.com,4f71f0527ff7d162244d2f56bd37ce491f1c273b8b4cef0eebd0ba84d58c8604,Materia Prima,Inactivo,21-06-2025
+4,GlobalTech Services ,900876543-2,Juan Pérez,3013344556,jperez@globaltech.net,f2c44434e45502c2d42cb40fd143b0bf855d6db01d9afbd56103673263198e78,Software,Bloqueado,21-06-2025
+6,Admin Corp,123456789,Administrador,5551234,admin@example.com,$2a$10$x.xFfqpR1jZN8hyJGffv/u07XGjghel1IbWs/g.7eb4i70ji5Zl8q,Admin,Activo,21-06-2025
+8,Sistema,12345678,Administrador,1234567890,admin@correo.com,$2a$10$W56OAeFGR29vY1cYG1ya..e1aXTYx.uT8Vp9IhMifPTTqu9K1ZoeK,Otros,Activo,29-06-2025
+9,BioNatural Productos SAS,902345678-9,Mariana Castro,3145566778,mcastro@bionatural.co,$2a$10$/1FjAAbYR1WdLU3JVbrwJ.WrKJaHIeH8lDbK95CFxaLVi2VnoYdXC,Materia Prima,Activo,06-07-2025
+10,Comercializadora Andina,901112233-0,Felipe Morales,3209988776,f.morales@andina.com,$2a$10$29Kmb8SK.hpxXvJJYTDlKOlnuGTaKC9NIYIPNPuktHfhndH0IXD6u,Logística y Distribución,Pendiente de Aprobación,06-07-2025
+11,ElectroRedes Ltda,900443322-5,Diana Rincón,3153344552,diana.rincon@eredes.com,$2a$10$Y7DJpAjlx6kZCH5I.NSHr.i32lbI7Tf8U9Kci7Vhke9ob.R6RyWue,Telecomunicaciones,Activo,06-07-2025
+12,Grupo Empresarial Delta,903456789-4,Camilo Vargas,3178877665,cvargas@grupo-delta.co,$2a$10$GAugpOUaAC3vQEB0EoEBLuydVJ8WcrbBZ9McdFSBnC67MRfqKtKoq,Consultoría,Bloqueado,06-07-2025
+13,Logística Express S.A.S.,901998877-6,Natalia Suárez,3181122334,natalia@logiexpress.com,$2a$10$Sc6pQKYnUtRoezKe6.kZPO8gBJaSaVGQXefIFi55kq6EjS3HyiSSy,Logística y Distribución,Activo,06-07-2025
+14,Constructora La Esperanza,900667788-7,Jorge Salazar,3126677889,jsalazar@laesperanza.com,$2a$10$nBG4bQFb0BWLUSj5cixVaO.25Nlz6tviydShIItT0yPM2D5WPGeby,Otros,Activo,06-07-2025
